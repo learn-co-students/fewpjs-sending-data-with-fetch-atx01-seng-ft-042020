@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,41 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Olly",
+      "dogBreed": "Schnauzer",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Jax",
+      "dogBreed": "Shephard",
+      "id": 4
+    },
+    {
+      "dogName": "Jax",
+      "dogBreed": "Shephard",
+      "id": 5
+    },
+    {
+      "dogname": "Jax",
+      "dogBreed": "Shephard",
+      "id": 6
+    },
+    {
+      "dogName": "Olly Boy",
+      "dogBreed": "Robot Dog",
+      "id": 7
+    },
+    {
+      "dogName": "Olly Boy",
+      "dogBreed": "Robot Dog",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +54,58 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "marshall",
+      "email": "marshall@gmail.com",
+      "id": 9
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
